@@ -20,5 +20,12 @@
 - [Typescript](https://www.typescriptlang.org)
 - [tailwind](https://tailwindcss.com/)
 
+<p>
+  <strong>OBS: <strong>this project needs the contract to do the transactions using metamask,
+  hardhat lib was used to generate
+</p>
+
+- [hardhat](https://hardhat.org/)
+
 ---
 Made with ♥ by Lucas Aguiar :wave: [Get in touch!](https://www.linkedin.com/in/lucasaguiiar)
